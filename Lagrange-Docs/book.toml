@@ -1,0 +1,5 @@
+[book]
+authors = ["Ian Westlake"]
+language = "en"
+src = "src"
+title = "Lagrange Docs"
